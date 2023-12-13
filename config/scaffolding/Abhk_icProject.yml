@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Abhk_icProject
+  gitServerName: abhk
+  gitUrl: https://github.com/ak879753/Abhk_icProject
+  gitUsername: ak879753
+  gitBranch: main
